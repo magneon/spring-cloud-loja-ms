@@ -1,4 +1,4 @@
-package br.com.softcube.microservices.loja.controllers.dtos;
+package br.com.softcube.microservices.loja.dtos;
 
 public class EnderecoDTO {
 
